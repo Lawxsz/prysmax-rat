@@ -3,7 +3,7 @@
  Prysmax RAT ❗️
 </h1>
 <h4 align="center">
-:construction: Project under development :construction:
+:construction: this project is obsolete, everything has been moved to: https://github.com/Lawxsz/discord-rat-2024 :construction:
 
 - This is not the source code for Prysmax Rat Premium (Paid service with more features and FUD).
 - Prysmax is one of the few original Stealers - RAT
